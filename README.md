@@ -6,6 +6,7 @@ I'm a student in Shanghai University.
 
 - ℹ️ Blog: https://yanthinkn.cn/ (Lang: CN)
 
+- 🤔 Research Interest: High-performance Computing & Distributed Computing
 
 [![YANthinkn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YANthinkn&theme=algolia&show_icons=true&?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
