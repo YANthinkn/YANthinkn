@@ -4,7 +4,7 @@
   <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=YANthinkn&show_icons=true&theme=algolia" />
 </a>
 
-- 📚 M.Sc Student of Artificial Intelligence at Nanyang Technological University (NTU)
+- 📚 MSc Student of Artificial Intelligence at Nanyang Technological University (NTU)
 
 - 📚 Internship at Parallel and Distributed Computing Lab (PDCL), NTU
 
