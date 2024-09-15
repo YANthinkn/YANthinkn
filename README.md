@@ -1,11 +1,19 @@
-## Hi! I'm Yan Xinyu (Tristan).
+## 👋 Hi, I'm Tristan Yan
 
-I am a master's student at Nanyang Technological University and internship at Parallel and Distributed Computing Lab (PDCL), NTU.
+<a href="https://github.com/YANthinkn?tab=repositories" >
+  <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=YANthinkn&show_icons=true&theme=algolia" />
+</a>
 
-- 💻 Major in Artificial Intelligence.
+- 📚 M.Sc Student of Artificial Intelligence at Nanyang Technological University (NTU)
 
-- 🤔 Research Interest: LLM Training & Inference Acclearion; Federal Learning
+- 📚 Internship at Parallel and Distributed Computing Lab (PDCL), NTU
 
-[![YANthinkn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YANthinkn&theme=algolia&show_icons=true&?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- 🔎 Research interest
+  - LLM Training & Inference Acceleration
+  - Federal Learning
+ 
+- 🔭 Working on a project funded by Alibaba
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YANthinkn&layout=compact&theme=algolia&&show_icons=true&hide=tex,Cmake,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 Reaching me by Tristan_Yan@outlook.com
+
+[![My Skills](https://skillicons.dev/icons?i=python,go,linux,docker,kubernetes,markdown,latex)](https://skillicons.dev)
