@@ -1,12 +1,10 @@
-## Hi! I'm YANthinkn.
+## Hi! I'm Yan Xinyu (Tristan).
 
-I'm a student in Shanghai University.
+I am a master's student at Nanyang Technological University and internship at Parallel and Distributed Computing Lab (PDCL), NTU.
 
-- 💻 Major in Computer Science.
+- 💻 Major in Artificial Intelligence.
 
-- ℹ️ Blog: https://yanthinkn.cn/ (Lang: CN)
-
-- 🤔 Research Interest: High-performance Computing & Distributed Computing
+- 🤔 Research Interest: LLM Training & Inference Acclearion; Federal Learning
 
 [![YANthinkn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YANthinkn&theme=algolia&show_icons=true&?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
