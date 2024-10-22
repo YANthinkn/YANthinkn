@@ -14,7 +14,7 @@
  
 - 🔭 Working on a project funded by Alibaba
 
-- 📑 Updating academic-related content on [Yuque](https://www.yuque.com/yanthinkn) 
+- 📑 Updating academic-related content on my Blog[Yuque](https://yanthinkn.cn) 
 
 - 📫 Reaching me by Tristan_Yan@outlook.com
 
