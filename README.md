@@ -14,7 +14,9 @@
  
 - 🔭 Working on a project funded by Alibaba
 
-- 📑 Updating academic-related content on my [Blog](https://yanthinkn.cn) 
+- 📑 Updating academic-related content on my [Blog](https://yanthinkn.cn)
+  
+  **(I WILL UPDATE AFTER THIS SEMESTER'S FINAL EXAM / PROJECT)**
 
 - 📫 Reaching me by Tristan_Yan@outlook.com
 
