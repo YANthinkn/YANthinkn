@@ -10,7 +10,7 @@
 
 - 🔎 Research interest
   - LLM Training & Inference Acceleration
-  - RAG / MOE Improving & Accelerating
+  - RAG / MoE Improving & Accelerating
   - Federal Learning (Mentor's Task)
  
 - 🔭 Working on a project funded by Alibaba
