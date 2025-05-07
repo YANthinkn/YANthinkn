@@ -9,16 +9,15 @@
 - 📚 Internship at Parallel and Distributed Computing Lab (PDCL), NTU
 
 - 🔎 Research interest
-  - **🦙LLM Related:** RAG & MoE Accelerating Inference
-  - **💾Computer Architecture:** HPC/Cluster Job Scheduling; Sustainable Computing (LLM Taks)
-  - **🖥Distributed System:** Federated Learning (Collaborative Learning)
+  - **Machine Learning System:** Efficient LLM (RAG & MoE) Inferencel; Clusters / Instances Scheduling
+  - **Distributed System:** Federated Learning (Collaborative Learning)
 
 - 🔭 Working on a Green AI Project funded by Alibaba
 
 - 📑 Updating academic-related contents on my [Blog](https://tristanyan.cn)
   
-- 📫 Reaching me by Tristan_Yan@outlook.com
+- 📫 Reaching me by Tristan_Yan[AT]outlook[DOT]com
 
-- “创业维艰，缅怀诸先烈；守成不易，莫徒务近功。”
+- “創業維艱，緬懷諸先烈；守成不易，莫徒務近功。”
 
 [![My Skills](https://skillicons.dev/icons?i=python,go,linux,docker,grafana,kubernetes,git,vim,aws,gcp,azure,markdown,latex)](https://skillicons.dev)
