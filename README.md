@@ -9,7 +9,7 @@
 - 📚 Internship at Parallel and Distributed Computing Lab (PDCL), NTU
 
 - 🔎 Research interest
-  - **Machine Learning System:** Efficient LLM (RAG & MoE) Inferencel; Clusters / Instances Scheduling
+  - **Machine Learning System:** Efficient LLM (RAG & MoE) Inference; Clusters / Instances Scheduling
   - **Distributed System:** Federated Learning (Collaborative Learning)
 
 - 🔭 Working on a Green AI Project funded by Alibaba
